@@ -6,6 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Redis帮助类
+/// </summary>
 namespace RedisHelper
 {
     public class RedisHelper
